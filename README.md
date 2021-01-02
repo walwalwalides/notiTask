@@ -9,7 +9,7 @@
 
 
 
-                                  MMP_Mobile is a Data Transfer Apps,helps to load Packages Easily..
+                                                              notiTask
 
 
 
@@ -35,7 +35,7 @@ Principal Software Benefits:
 
 | Module | Name | 
 | --- | --- |
-|notiTask.apk|Generate local notification in android smartphone(Android) |
+|notiTask.apk|Generate local notification in android smartphone (Android) |
 
 
 ------
