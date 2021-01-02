@@ -35,7 +35,7 @@ Principal Software Benefits:
 
 | Module | Name | 
 | --- | --- |
-|notiTask.apk|Generate local notification in android smartphone(Android) |
+|notiTask.apk|Generate local notification in android smartphone (Android) |
 
 
 ------
