@@ -1,2 +1,49 @@
-# notitaskapp
-Generate local notification in android smartphone
+# notiTask
+> Generate local notification in android smartphone   | ANDROID
+
+![Platforms](https://img.shields.io/badge/Supported%20platforms-ANDROID-BLUE.svg)
+
+<p align="center">
+  <img src=notiTask_Mobile.png />
+</p> 
+
+                                  MMP_Mobile is a Data Transfer Apps,helps to load Packages Easily..
+
+
+
+**Authors:**  *WalWalWalides*
+------
+
+`notiTask` offers a new Way for better transfer WAV packages. That means granting increased Productivity - That promises more and better Work in less Time.
+
+
+
+Principal Software Benefits:
+
+      - Flexible and Simple User Interface.
+
+
+    
+    
+
+
+## Contains
+
+| Module | Name | 
+| --- | --- |
+|notiTask.apk|Generate local notification in android smartphone(Android) |
+
+
+------
+
+## To Install the Software:
+
+### Install App ( ANDROID ) 
+
+Link : 
+
+
+# If You Want To Donate!
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=Y79F36A9BGLHS&source=url)
+
