@@ -1,2 +1,2 @@
 # notitaskapp
-Generate local notification in android
+Generate local notification in android smartphone
