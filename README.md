@@ -4,7 +4,7 @@
 ![Platforms](https://img.shields.io/badge/Supported%20platforms-ANDROID-BLUE.svg)
 
 <p align="center">
-  <img src=notiTask_icon.png />
+  <img src=notiTask_icon_1.png />
 </p> 
 
 
