@@ -4,7 +4,7 @@
 ![Platforms](https://img.shields.io/badge/Supported%20platforms-ANDROID-BLUE.svg)
 
 <p align="center">
-  <img src=notiTask_Mobile.png />
+  <img src=notiTask_mobile.png />
 </p> 
 
                                   MMP_Mobile is a Data Transfer Apps,helps to load Packages Easily..
