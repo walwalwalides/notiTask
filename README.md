@@ -4,7 +4,7 @@
 ![Platforms](https://img.shields.io/badge/Supported%20platforms-ANDROID-BLUE.svg)
 
 <p align="center">
-  <img src=notiTask_icon_1.png />
+  <img src=img/notiTask_icon_1.png />
 </p> 
 
 
@@ -19,7 +19,7 @@
 `notiTask`
 
 <p align="center">
-  <img src=notiTask_mobile.png />
+  <img src=img/notiTask_mobile_1.png />
 </p> 
 
 Principal Software Benefits:
