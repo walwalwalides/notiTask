@@ -16,7 +16,7 @@
 **Authors:**  *WalWalWalides*
 ------
 
-`notiTask` offers a new Way for better transfer WAV packages. That means granting increased Productivity - That promises more and better Work in less Time.
+`notiTask`
 
 <p align="center">
   <img src=notiTask_mobile.png />
