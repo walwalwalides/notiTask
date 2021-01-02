@@ -4,8 +4,10 @@
 ![Platforms](https://img.shields.io/badge/Supported%20platforms-ANDROID-BLUE.svg)
 
 <p align="center">
-  <img src=notiTask_mobile.png />
+  <img src=notiTask_icon.png />
 </p> 
+
+
 
                                   MMP_Mobile is a Data Transfer Apps,helps to load Packages Easily..
 
@@ -16,7 +18,9 @@
 
 `notiTask` offers a new Way for better transfer WAV packages. That means granting increased Productivity - That promises more and better Work in less Time.
 
-
+<p align="center">
+  <img src=notiTask_mobile.png />
+</p> 
 
 Principal Software Benefits:
 
