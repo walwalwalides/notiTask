@@ -9,7 +9,7 @@
 
 
 
-                                  MMP_Mobile is a Data Transfer Apps,helps to load Packages Easily..
+                                  notiTask is a app..
 
 
 
