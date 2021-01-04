@@ -1,5 +1,5 @@
 # notiTask
-> Generate local notification in android smartphone   | ANDROID
+> Send and Recieve a local notification in your android smartphone   | ANDROID
 
 ![Platforms](https://img.shields.io/badge/Supported%20platforms-ANDROID-BLUE.svg)
 
@@ -16,7 +16,10 @@
 **Authors:**  *WalWalWalides*
 ------
 
-`notiTask`
+`notiTask` is a Android app relate to the Cloud Database "Firebase",in there are stored all users information.
+This App is joint with a web application call notiTaskWeb
+With notiTaskWeb you can see live all users states and send for each choosed user a app notofication.
+the notiTask notification work continually as remote service that mean you get the benefits of a good reachability.
 
 <p align="center">
   <img src=img/notiTask_mobile_1.png />
